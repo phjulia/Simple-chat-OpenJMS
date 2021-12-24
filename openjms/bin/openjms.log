@@ -1,0 +1,12 @@
+13:28:09.421 INFO  [main] - Server accepting connections on tcp://192.168.1.111:3035/
+13:28:19.431 INFO  [main] - JNDI service accepting connections on tcp://192.168.1.111:3035/
+13:28:29.442 INFO  [main] - Admin service accepting connections on tcp://192.168.1.111:3035/
+13:28:54.523 INFO  [main] - Server accepting connections on rmi://192.168.1.111:1099/
+13:29:04.538 INFO  [main] - JNDI service accepting connections on rmi://192.168.1.111:1099/
+13:29:14.545 INFO  [main] - Admin service accepting connections on rmi://192.168.1.111:1099/
+14:08:45.745 INFO  [main] - Server accepting connections on tcp://192.168.1.111:3035/
+14:08:55.751 INFO  [main] - JNDI service accepting connections on tcp://192.168.1.111:3035/
+14:09:05.763 INFO  [main] - Admin service accepting connections on tcp://192.168.1.111:3035/
+14:09:30.996 INFO  [main] - Server accepting connections on rmi://192.168.1.111:1099/
+14:09:41.005 INFO  [main] - JNDI service accepting connections on rmi://192.168.1.111:1099/
+14:09:51.014 INFO  [main] - Admin service accepting connections on rmi://192.168.1.111:1099/
