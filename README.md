@@ -1,5 +1,5 @@
 # Simple-chat-OpenJMS
-Simple chat written with Java Messaging Service OpenJMS: http://openjms.sourceforge.net/index.html
+Simple chat written with Java Messaging Service OpenJMS: http://openjms.sourceforge.net/
 In order to run the application, OpenJMS server has to be started first. 
 Instructions for Mac:
 1) Download openjms. 
